@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{07639588-6517-4962-B9D8-890FEB76C0E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploTabPag/MyPage2.xaml.cs">
+    <Files>
+      <File FileName="ExemploTabPag/MainPage.xaml.cs" Line="16" Column="6" />
+      <File FileName="ExemploTabPag/MainPage.xaml" Line="5" Column="6" />
+      <File FileName="ExemploTabPag/MyPage1.xaml" Line="6" Column="1" />
+      <File FileName="ExemploTabPag/MyPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExemploTabPag/MyPage2.xaml" Line="6" Column="1" />
+      <File FileName="ExemploTabPag/MyPage2.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploTabPag.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ExemploTabPag.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D029A314-5281-4523-A8AD-0C159DCC4933" />
+  <MultiItemStartupConfigurations />
+</Properties>

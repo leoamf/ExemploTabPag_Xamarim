@@ -1,0 +1,14 @@
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/bin/Debug/netstandard2.0/ExemploTabPag.deps.json
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/bin/Debug/netstandard2.0/ExemploTabPag.dll
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/bin/Debug/netstandard2.0/ExemploTabPag.pdb
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/MyPage1.xaml.g.cs
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/MyPage2.xaml.g.cs
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.dll
+/Users/aluno/Desktop/ExemploTabPag_Xamarim/ExemploTabPag/ExemploTabPag/obj/Debug/netstandard2.0/ExemploTabPag.pdb

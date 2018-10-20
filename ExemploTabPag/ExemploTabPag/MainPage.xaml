@@ -20,4 +20,11 @@
             </x:Arguments>
         </NavigationPage>
     </TabbedPage>
+    
+    
+    <CarouselPage Title="Pagina 5">
+       <local:MyPage1  ></local:MyPage1>
+        <local:MyPage2  ></local:MyPage2>
+     
+    </CarouselPage>
 </TabbedPage>
